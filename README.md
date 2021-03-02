@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![China's github stats](https://github-readme-stats.vercel.app/api?username=china555&show_icons=true&theme=radical)](https://github.com/china555/china555)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=china555&layout=compact&langs_count=8)](https://github.com/china555/china555)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=china555&layout=compact&langs_count=8&theme=react)](https://github.com/china555/china555)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=china555&repo=Learning-Vue&theme=radical)](https://github.com/china555/Learning-Vue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=china555&repo=Learning-Flutter&theme=jolly )](https://github.com/china555/Learning-Flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=china555&repo=Web-Programming&theme=cobalt  )](https://github.com/china555/Web-Programming)
